@@ -5,4 +5,4 @@ This will open [https://minesweeper.online/](https://minesweeper.online/) in the
 
 AI is designed to play minesweeper with selenium actions. 
 
-This is [how it works](https://www.youtube.com/shorts/c5ehghy_Dmc) and this is its [demo](https://www.youtube.com/watch?v=pPeW1MU-hZA&ab_channel=CodewithAkhil)
+Here is [how it works](https://www.youtube.com/shorts/c5ehghy_Dmc) and here is its [demo](https://www.youtube.com/watch?v=pPeW1MU-hZA&ab_channel=CodewithAkhil)
